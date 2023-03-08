@@ -4,5 +4,9 @@
     <string name="first_text">Input the bye message</string>
     <string name="second_text">Input the number of repetitions</string>
     <string name="first_edit_text">Bye message</string>
+    <string name="second_edit_text">Number of repetitions</string>
     <string name="button_text">Go to the bye screen</string>
+
+    <string name="back_button_text">Go back to the hello screen</string>
+    <string name="byeText">Bye bye!</string>
 </resources>
